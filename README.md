@@ -1,5 +1,6 @@
 # Hi, I'm Thahseen NV 👋
 
+## 👨‍💻 About
 🎓 B.Tech ECE Student | Lovely Professional University | 2nd Year  
 ⚙️ Technical Intern @ IIT Patna (Incubation Centre) | Embedded Systems & IoT
 
