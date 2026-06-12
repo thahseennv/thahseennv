@@ -1,12 +1,11 @@
 # Hi, I'm Thahseen NV 👋
 
 🎓 B.Tech ECE Student | Lovely Professional University | 2nd Year  
-🔍 Looking for Internships | Embedded Systems | Circuit Design | Semiconductor Industry | Electronics
+⚙️ Technical Intern @ IIT Patna (Incubation Centre) | Embedded Systems & IoT
 
 I'm a passionate ECE student interested in embedded systems, 
-microcontroller programming, circuit design, and coding. 
+microcontroller programming, circuit design, IoT, and coding. 
 I enjoy building real-world hardware and software projects.
-
 ---
 
 ## 🛠️ Skills
@@ -21,6 +20,7 @@ Proteus, VS Code, CLion
 
 ## 🚀 What I'm Working On
 
+- Technical Internship at IIT Patna (Incubation Centre) – Embedded Systems & IoT
 - 8051 microcontroller projects (LCD interfacing, ADC, sensors)
 - ESP32 wireless communication using LoRa (RA-02 module at 433MHz)
 - Building my embedded systems portfolio on GitHub
