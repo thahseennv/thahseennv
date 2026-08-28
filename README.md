@@ -1,7 +1,7 @@
 # Hi, I'm Thahseen NV 👋
 
 ## 👨‍💻 About
-🎓 B.Tech ECE Student | Lovely Professional University | 2nd Year  
+🎓 B.Tech ECE Student | Lovely Professional University | 3nd Year  
 ⚙️ Technical Intern @ IIT Patna (Incubation Centre) | Embedded Systems & IoT
 
 I'm a passionate ECE student interested in embedded systems, 
@@ -31,6 +31,7 @@ Proteus, VS Code, CLion
 ## 📂 Projects
 
 - 🔹 [8051 Programs](https://github.com/thahseennv/8051-Programmes)
+- 🔹 [Line-Following-Robot](https://github.com/thahseennv/Line-Following-Robot)
 
 ---
 
